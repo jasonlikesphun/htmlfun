@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 <p><code>Some Code</code> or block use</p>
 <pre><code>line of code</code></pre>
 <pre><code>
@@ -5,3 +8,5 @@
     body { background-color: #eee; }
   </code></pre>
 <p>The <code>push()</code> method adds one or more elements to the end of an array and returns the new length of the array.</p>
+</body>
+</html>
